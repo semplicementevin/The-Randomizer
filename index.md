@@ -1,8 +1,10 @@
 ## Benvenuto nel sito ufficiale del server EnderCraft!
 
 Benvenuto nel sito ufficiale del server Minecraft EnderCraft!
-  Endercraft è un server minecraft nato da poco, che pian piano si sta espandendo nella community di Minecraft.
-  Il server è stato creato da 𝕸𝖆𝖛𝖞𝕯𝖗𝖆𝖌𝖔𝖓𝖘#2181 agli inizi di Novembre 2021.
+
+Endercraft è un server minecraft nato da poco, che pian piano si sta espandendo nella community di Minecraft.
+Il server è stato creato da 𝕸𝖆𝖛𝖞𝕯𝖗𝖆𝖌𝖔𝖓𝖘#2181 agli inizi di Novembre 2021.
+
 Per entrare nel server, usa questo indirizzo: ult11.falix.gg:27514
 
 ### Il nostro regolamento
