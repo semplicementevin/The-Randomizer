@@ -1,4 +1,4 @@
-## Benvenuto al sito ufficiale del server EnderCraft!
+## Benvenuto nel sito ufficiale del server EnderCraft!
 
 Benvenuto nel sito ufficiale del server Minecraft EnderCraft!
   Endercraft è un server minecraft nato da poco, che pian piano si sta espandendo nella community di Minecraft.
