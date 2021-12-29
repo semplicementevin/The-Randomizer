@@ -20,4 +20,5 @@ Syntax highlighted code block
 ### Supporto, Contatti e Provini
 
 Se sei interessato ad entrare nello Staff di EnderCraft, entra nel server discord [cliccando qui](https://discord.gg/u7PrYVyDAH)
+
 ^ Il server, oltre a permetterti di entrare nello Staff, permette anche di visionare le motivazioni di sanzioni e di contattare lo Staff e i Developer per qualsiasi errore riscontrato nel server.
