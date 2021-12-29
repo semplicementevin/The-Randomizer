@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvenuto al sito ufficiale del server EnderCraft!
 
 You can use the [editor on GitHub](https://github.com/semplicementevin/endercraft.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
