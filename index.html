@@ -4,7 +4,9 @@
   <style>
     body {
       font-family: "Helvetica";
-      background-color: lightgray;
+      background-color: rgba(0, 0, 0, 0.5);
+	  background-image: url("https://wallpaper.dog/large/20359642.jpg");
+      background-size: cover;
       color: black;
     }
     h1 {
@@ -35,12 +37,14 @@
   <h1>The Randomizer</h1>
   <p>A website that randomly generates things for you.</p>
   <button id="generate-button">Generate</button>
+  <button id="reset-button">Reset</button>
   <p id="output"></p>
   <img id="image" src="" alt="">
   <script>
     const generateButton = document.getElementById("generate-button");
     const outputElement = document.getElementById("output");
     const imageElement = document.getElementById("image");
+	const resetButton = document.getElementById("reset-button");
 
     setInterval(() => {
       const r = Math.floor(Math.random() * 256);
@@ -48,6 +52,11 @@
       const b = Math.floor(Math.random() * 256);
       generateButton.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
     }, 1000);
+	
+	resetButton.addEventListener("click", () => {
+  outputElement.innerHTML = "";
+  imageElement.src = "";
+});
 
     generateButton.addEventListener("click", () => {
       const randomThings = [
@@ -69,6 +78,7 @@
       outputElement.innerText = randomThing.text;
       imageElement.src = randomThing.src;
     });
+	
   </script>
 </body>
 </html>
